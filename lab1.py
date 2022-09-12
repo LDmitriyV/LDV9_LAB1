@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding=utf-8
 
-def lab01():
+def lab1():
 
     a = int(input('Введите A: '))
     b = int(input('Введите B: '))
@@ -15,4 +15,4 @@ def lab01():
     input("Нажмите Enter для выхода")
 
 if __name__ == '__main__':
-    lab01()
+    lab1()
